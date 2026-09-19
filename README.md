@@ -2,7 +2,7 @@
 
 # 快狸(KuaiLi)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/kuaili) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/kuaili) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 快狸（KuaiLi）提供可导入兼容代理客户端的机场订阅，常见叫法包括“KuaiLi VPN”“快狸梯子”和“快狸机场”。本文整理套餐、网络拓扑和流媒体解锁记录，但当前没有可用于判断实际速度的有效测速图。
 
